@@ -8,7 +8,7 @@ Introduction:
 The field of data science and machine learning offers numerous opportunities to apply advanced techniques to real-world problems. In the context of this project, we aim to explore and analyze the underlying motivations of the influence exerted by online influencers. Our objective is to understand why some individuals are influenced by the actions and recommendations of an influencer while seeking ways to mitigate this influence based on an individual's profile.
 
 Problem Statement:
-Our central problem statement is as follows: "What are the driving forces that lead individuals to be influenced by online influencers, and how can we, based on their profile, reduce this influence?"
+Our central problem statement is as follows: "What are the driving forces that lead individuals to be influenced by online influencers, and how can we, based on their profile, reduce this influence?".
 
 Motivation:
 The main reason why we have chosen this topic is because of a French rapper, Booba, who has decided to fight against influencers who advertise lots of fake and scams products. We also have chosen this question due to the increasing prevalence of social media and online influencers in our contemporary society. Understanding why certain people are influenced by these figures is essential for more effectively targeting and personalizing influencer marketing campaigns.
